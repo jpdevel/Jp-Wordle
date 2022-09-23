@@ -1,0 +1,103 @@
+{
+    "about": "このゲームについて",
+    "gameName": "Wordle Clone - 日本語版（開発中）",
+    "enterKey": "実行",
+    "deleteKey": "削除",
+    "notEnoughLetters": "文字が足りません",
+    "wordNotFound": "その単語はありません",
+    "solution": "正解は {{solution}}",
+    "gameCopied": "クリップボードにコピーされました",
+    "howToPlay": "遊び方",
+    "instructions": "{{tries}}回までに今日の5文字単語を当てます。 実行を押すと今日の単語との文字の違いがハイライトされます。",
+    "pickYourLanguage": "言語を選ぶ",
+    "correctSpotInstructions": "「あ」の文字の位置は合っています。",
+    "wrongSpotInstructions": "「に」の文字は使われているが、位置が違います。",
+    "notInWordInstructions": "どの文字も使われていません。",
+    "guessDistribution": "Guess Distribution",
+    "statistics": "統計",
+    "totalTries": "合計",
+    "successRate": "成功率",
+    "currentStreak": "現在のストリーク",
+    "bestStreak": "ベスト",
+    "newWordCountdown": "リセットまで",
+    "share": "シェア",
+    "winMessages": [
+        "よくできました!",
+        "すばらしい",
+        "この調子!"
+    ],
+    "firstExampleWord": [{
+            "letter": "あ",
+            "highlight": true
+        },
+        {
+            "letter": "り",
+            "highlight": false
+        },
+        {
+            "letter": "が",
+            "highlight": false
+        },
+        {
+            "letter": "と",
+            "highlight": false
+        },
+        {
+            "letter": "う",
+            "highlight": false
+        }
+    ],
+    "secondExampleWord": [{
+            "letter": "こ",
+            "highlight": false
+        },
+        {
+            "letter": "ん",
+            "highlight": false
+        },
+        {
+            "letter": "に",
+            "highlight": true
+        },
+        {
+            "letter": "ち",
+            "highlight": false
+        },
+        {
+            "letter": "は",
+            "highlight": false
+        }
+    ],
+    "thirdExampleWord": [{
+            "letter": "こ",
+            "highlight": true
+        },
+        {
+            "letter": "ん",
+            "highlight": true
+        },
+        {
+            "letter": "ば",
+            "highlight": true
+        },
+        {
+            "letter": "ん",
+            "highlight": true
+        },
+        {
+            "letter": "は",
+            "highlight": true
+        }
+    ],
+    "aboutAuthorSentence": "This is an open source clone of the game Wordle adapted to {{language}} by <3>{{author}}</3>. ",
+    "aboutCodeSentence": "Check out <1>the original code</1> by <3>Hannah Park</3> or have a look at <5>Aidan Pine's fork</5> and customize it for another language! ",
+    "aboutDataSentence": "5文字単語はみなさんから募集しています。こちらから→ <1>{{wordListSource}}</1>. ",
+    "aboutOriginalSentence": "オリジナルのゲームは  <1>here</1>",
+    "languages": {
+        "en": "English",
+        "es": "Español",
+        "sw": "Kiswahili",
+        "zh": "中文",
+        "jp": "日本語"
+    }
+}
