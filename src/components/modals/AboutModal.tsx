@@ -59,7 +59,7 @@ export const AboutModal = ({ isOpen, handleClose }: Props) => {
         <Trans i18nKey="aboutOriginalSentence">
           You can also
           <a
-            href="https://www.powerlanguage.co.uk/wordle/"
+            href="https://www.nytimes.com/games/wordle/index.html"
             className="underline font-bold"
           >
             play the original here
