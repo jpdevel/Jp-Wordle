@@ -1,6 +1,9 @@
 # Any-Language Wordle Clone
 
-## Changes in this fork
+This version is forked from https://github.com/roedoejet/AnyLanguage-Wordle and modified to Japanese.
+
+
+## Original README from @roedoejet
 
 I've adapted this code to allow for simply adapting it to another language. The wordlist and orthography (writing system) here are for the Gitksan language, but this repository is meant to be adapted to other languages. I've also added a script for publishing on GitHub Pages.
 
