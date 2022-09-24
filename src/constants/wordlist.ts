@@ -2,7 +2,7 @@ import { CONFIG } from './config'
 
 export const WORDS = [
   'おかあさん',
-  'ありがとう',
+  'おてつだい',
 ]
 
 if (CONFIG.normalization) {

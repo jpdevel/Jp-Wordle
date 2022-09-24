@@ -8,10 +8,10 @@
     "solution": "正解は {{solution}}",
     "gameCopied": "クリップボードにコピーされました",
     "howToPlay": "遊び方",
-    "instructions": "{{tries}}回までに今日の5文字単語を当てます。 実行を押すと今日の単語との文字の違いがハイライトされます。",
+    "instructions": "{{tries}}回までに今日の5文字単語を当てます。 名詞のみで形容詞や動詞は含まれません。実行を押すと今日の単語との文字の違いがハイライトされます。",
     "pickYourLanguage": "言語を選ぶ",
-    "correctSpotInstructions": "「あ」の文字の位置は合っています。",
-    "wrongSpotInstructions": "「に」の文字は使われているが、位置が違います。",
+    "correctSpotInstructions": "「こ」の文字の位置は合っています。",
+    "wrongSpotInstructions": "「ま」の文字は使われているが、位置が違います。",
     "notInWordInstructions": "どの文字も使われていません。",
     "guessDistribution": "Guess Distribution",
     "statistics": "統計",
@@ -27,65 +27,65 @@
         "この調子!"
     ],
     "firstExampleWord": [{
-            "letter": "あ",
+            "letter": "こ",
             "highlight": true
+        },
+        {
+            "letter": "い",
+            "highlight": false
+        },
+        {
+            "letter": "の",
+            "highlight": false
+        },
+        {
+            "letter": "ぼ",
+            "highlight": false
         },
         {
             "letter": "り",
             "highlight": false
-        },
-        {
-            "letter": "が",
-            "highlight": false
-        },
-        {
-            "letter": "と",
-            "highlight": false
-        },
-        {
-            "letter": "う",
-            "highlight": false
         }
     ],
     "secondExampleWord": [{
-            "letter": "こ",
+            "letter": "ひ",
             "highlight": false
         },
         {
-            "letter": "ん",
+            "letter": "な",
             "highlight": false
         },
         {
-            "letter": "に",
+            "letter": "ま",
             "highlight": true
         },
         {
-            "letter": "ち",
+            "letter": "つ",
             "highlight": false
         },
         {
-            "letter": "は",
+            "letter": "り",
             "highlight": false
         }
     ],
     "thirdExampleWord": [{
-            "letter": "こ",
+            "letter": "い",
             "highlight": true
         },
         {
-            "letter": "ん",
+            "letter": "き",
             "highlight": true
         },
         {
-            "letter": "ば",
+            "letter": "ど",
             "highlight": true
         },
         {
-            "letter": "ん",
+            "letter": "ま",
             "highlight": true
         },
         {
-            "letter": "は",
+            "letter": "り",
             "highlight": true
         }
     ],
