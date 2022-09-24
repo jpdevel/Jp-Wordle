@@ -114,9 +114,9 @@ export const VALIDGUESSES = [
 'ゆきひょう',
 'でりばりー',
 'にっとぼう',
-'ありがとう',
-'こんにちは',
-'こんばんは'
+'おてつだい',
+'ふゆやすみ',
+'はるやすみ',
 ]
 
 if (CONFIG.normalization) {

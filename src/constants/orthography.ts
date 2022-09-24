@@ -17,8 +17,8 @@ export const ORTHOGRAPHY = [
   'か',
   'あ',
 
+  'ぃ',
   'ー',
-  '　',
   'り',
   ' ',
   'み',
